@@ -58,8 +58,8 @@ This repository contains two Python scripts that demonstrate how to use the `lan
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/chat-ollama-utils.git
-   cd chat-ollama-utils
+   git clone https://github.com/passimon/chatollama-utilities.git
+   cd chatollama-utilities
    ```
 2. (Optional) Create and activate a virtual environment:
    ```bash
